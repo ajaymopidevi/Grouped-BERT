@@ -1,5 +1,7 @@
 # Grouped-BERT for Multi-Label Classification
 
+Authors: Ajay Narasimha Mopidevi, Hemanth Chenna
+
 ### Architecture
 ![Architecture](https://github.com/ajaymopidevi/Grouped-BERT/blob/main/GroupedBERT.png)
 
